@@ -1,0 +1,65 @@
+{
+    "Enemy": {
+        "checkpoints": [
+            {
+                "steps": 1499972,
+                "file_path": "results\\test_1505_1\\Enemy\\Enemy-1499972.onnx",
+                "reward": 24.615384615384617,
+                "creation_time": 1652573307.8964143,
+                "auxillary_file_paths": [
+                    "results\\test_1505_1\\Enemy\\Enemy-1499972.pt"
+                ]
+            },
+            {
+                "steps": 1999995,
+                "file_path": "results\\test_1505_1\\Enemy\\Enemy-1999995.onnx",
+                "reward": 27.307692307692307,
+                "creation_time": 1652574469.3649404,
+                "auxillary_file_paths": [
+                    "results\\test_1505_1\\Enemy\\Enemy-1999995.pt"
+                ]
+            },
+            {
+                "steps": 2499955,
+                "file_path": "results\\test_1505_1\\Enemy\\Enemy-2499955.onnx",
+                "reward": 28.917525773195877,
+                "creation_time": 1652575641.76558,
+                "auxillary_file_paths": [
+                    "results\\test_1505_1\\Enemy\\Enemy-2499955.pt"
+                ]
+            },
+            {
+                "steps": 2999970,
+                "file_path": "results\\test_1505_1\\Enemy\\Enemy-2999970.onnx",
+                "reward": 29.507042253521128,
+                "creation_time": 1652576790.59199,
+                "auxillary_file_paths": [
+                    "results\\test_1505_1\\Enemy\\Enemy-2999970.pt"
+                ]
+            },
+            {
+                "steps": 3000048,
+                "file_path": "results\\test_1505_1\\Enemy\\Enemy-3000048.onnx",
+                "reward": 29.527027027027028,
+                "creation_time": 1652576790.6909878,
+                "auxillary_file_paths": [
+                    "results\\test_1505_1\\Enemy\\Enemy-3000048.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000048,
+            "file_path": "results\\test_1505_1\\Enemy.onnx",
+            "reward": 29.527027027027028,
+            "creation_time": 1652576790.6909878,
+            "auxillary_file_paths": [
+                "results\\test_1505_1\\Enemy\\Enemy-3000048.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.11.0+cu115"
+    }
+}

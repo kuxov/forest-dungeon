@@ -1,0 +1,65 @@
+{
+    "Enemy": {
+        "checkpoints": [
+            {
+                "steps": 1499983,
+                "file_path": "results\\boss_2205_1\\Enemy\\Enemy-1499983.onnx",
+                "reward": 40.45454545454545,
+                "creation_time": 1653188054.981251,
+                "auxillary_file_paths": [
+                    "results\\boss_2205_1\\Enemy\\Enemy-1499983.pt"
+                ]
+            },
+            {
+                "steps": 1999974,
+                "file_path": "results\\boss_2205_1\\Enemy\\Enemy-1999974.onnx",
+                "reward": 41.627906976744185,
+                "creation_time": 1653188712.1822186,
+                "auxillary_file_paths": [
+                    "results\\boss_2205_1\\Enemy\\Enemy-1999974.pt"
+                ]
+            },
+            {
+                "steps": 2499997,
+                "file_path": "results\\boss_2205_1\\Enemy\\Enemy-2499997.onnx",
+                "reward": 45.0,
+                "creation_time": 1653189373.4990892,
+                "auxillary_file_paths": [
+                    "results\\boss_2205_1\\Enemy\\Enemy-2499997.pt"
+                ]
+            },
+            {
+                "steps": 2999984,
+                "file_path": "results\\boss_2205_1\\Enemy\\Enemy-2999984.onnx",
+                "reward": 45.0,
+                "creation_time": 1653190038.3097117,
+                "auxillary_file_paths": [
+                    "results\\boss_2205_1\\Enemy\\Enemy-2999984.pt"
+                ]
+            },
+            {
+                "steps": 3000070,
+                "file_path": "results\\boss_2205_1\\Enemy\\Enemy-3000070.onnx",
+                "reward": 45.0,
+                "creation_time": 1653190038.401726,
+                "auxillary_file_paths": [
+                    "results\\boss_2205_1\\Enemy\\Enemy-3000070.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000070,
+            "file_path": "results\\boss_2205_1\\Enemy.onnx",
+            "reward": 45.0,
+            "creation_time": 1653190038.401726,
+            "auxillary_file_paths": [
+                "results\\boss_2205_1\\Enemy\\Enemy-3000070.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.11.0+cu115"
+    }
+}
